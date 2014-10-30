@@ -4,4 +4,4 @@
 
 [Cards class with pics, front and back](http://www.codeskulptor.org/#user38_nIpmdsOPaJ_0.py)  
 
-[BlackJack](http://www.codeskulptor.org/#user38_H6nuzUsNSo_1.py)
+[BlackJack](http://www.codeskulptor.org/#user38_H6nuzUsNSo_8.py)
